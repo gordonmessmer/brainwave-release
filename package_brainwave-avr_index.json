@@ -1,0 +1,30 @@
+{
+  "packages": [
+    {
+         "name":"brainwave",
+         "maintainer":"brainwave",
+         "websiteURL":"https://github.com/unrepentantgeek/brainwave-arduino",
+         "email":"matthew@shinythings.com",
+         "platforms":[
+            {
+               "name":"brainwave Arduino AVR Modules",
+               "architecture":"avr",
+               "version":"1.0.0",
+               "url": "https://github.com/gordonmessmer/brainwave-arduino/blob/release-1.0.0/brainwave-avr-1.0.0.tar.xz?raw=true",
+               "archiveFileName":"brainwave-avr-1.0.0.tar.xz",
+               "checksum":"SHA-256:",
+               "size":"",
+               "boards":[
+                  { "name":"brainwave" },
+                  { "name":"brainwavepro" }
+               ],
+               "toolsDependencies":[
+                  { "packager":"arduino", "name":"avr-gcc", "version":"4.8.1-arduino5" },
+                  { "packager":"arduino", "name":"avrdude", "version":"6.0.1-arduino5" }
+               ]
+            }
+         ],
+         "tools":[]
+    }
+   ]
+}
