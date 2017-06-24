@@ -12,8 +12,8 @@
                "version":"1.0.0",
                "url": "https://github.com/gordonmessmer/brainwave-release/blob/master/brainwave-avr-1.0.0.tar.bz2?raw=true",
                "archiveFileName":"brainwave-avr-1.0.0.tar.bz2",
-               "checksum":"SHA-256:711fe4a709bb204a9b87feb096be2b651f7a828592414161f25e6988b5a6dba7",
-               "size":"103292",
+               "checksum":"SHA-256:9c35773f09a3c571bc101842396e1610d7893f3f6715de1706da7d41fb7c9bf8",
+               "size":"103288",
                "boards":[
                   { "name":"brainwave" },
                   { "name":"brainwavepro" }
