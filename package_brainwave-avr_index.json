@@ -10,10 +10,10 @@
                "name":"brainwave Arduino AVR Modules",
                "architecture":"avr",
                "version":"1.0.0",
-               "url": "https://github.com/gordonmessmer/brainwave-release/blob/master/brainwave-avr-1.0.0.tar.bz2?raw=true",
+               "url": "https://github.com/gordonmessmer/brainwave-arduino/blob/release-1.0.0/brainwave-avr-1.0.0.tar.bz2?raw=true",
                "archiveFileName":"brainwave-avr-1.0.0.tar.bz2",
-               "checksum":"SHA-256:9c35773f09a3c571bc101842396e1610d7893f3f6715de1706da7d41fb7c9bf8",
-               "size":"103288",
+               "checksum":"SHA-256:650d9fb804096dc88971e48d04faab061b26ff9bfa1fa7a790e1208fee881c1e",
+               "size":"129591",
                "boards":[
                   { "name":"brainwave" },
                   { "name":"brainwavepro" }
